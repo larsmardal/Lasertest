@@ -2,25 +2,25 @@
     "version": "1.7",
     "octreeDir": "data",
     "projection": "",
-    "points": 11204990,
+    "points": 61908090,
     "boundingBox": {
         "lx": 619200.0,
-        "ly": 6966000.0,
+        "ly": 6964800.0,
         "lz": 400.75,
-        "ux": 620000.0,
-        "uy": 6966800.0,
-        "uz": 1200.75
+        "ux": 621600.0,
+        "uy": 6967200.0,
+        "uz": 2800.75
     },
     "tightBoundingBox": {
         "lx": 619200.0,
-        "ly": 6966000.0,
+        "ly": 6964800.0,
         "lz": 400.75,
-        "ux": 620000.0,
+        "ux": 621600.0,
         "uy": 6966600.0,
-        "uz": 483.57
+        "uz": 639.75
     },
     "pointAttributes": "LAZ",
-    "spacing": 6.928203105926514,
+    "spacing": 20.784608840942384,
     "scale": 0.01,
     "hierarchyStepSize": 5
 }
